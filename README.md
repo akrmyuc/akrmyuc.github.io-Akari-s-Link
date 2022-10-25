@@ -1,4 +1,4 @@
-# akrmyuc.github.io-Akari-s-Link
+# Akari's Link
 
 宮内あかりのリンク集です。
 
