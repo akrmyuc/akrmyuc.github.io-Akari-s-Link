@@ -5,4 +5,4 @@
 👇 サイトURL<br>
 https://akrmyuc.github.io/akrmyuc.github.io-Akari-s-Link/
 
-<img width="373" alt="image" src="https://user-images.githubusercontent.com/87920616/197720284-accca6d8-6d42-4632-9e3f-0d0b13ca9f44.png">
+<img width="376" alt="image" src="https://user-images.githubusercontent.com/87920616/203500814-3dec5c2a-2b7b-4465-8aa8-61ad2af62a7e.png">
